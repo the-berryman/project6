@@ -1,0 +1,10 @@
+c:\users\lawadmin\source\repos\Project6\Project6\obj\Debug\Project6.csprojAssemblyReference.cache
+c:\users\lawadmin\source\repos\Project6\Project6\obj\Debug\Project6.project6.resources
+c:\users\lawadmin\source\repos\Project6\Project6\obj\Debug\Project6.Properties.Resources.resources
+c:\users\lawadmin\source\repos\Project6\Project6\obj\Debug\Project6.csproj.GenerateResource.cache
+c:\users\lawadmin\source\repos\Project6\Project6\obj\Debug\Project6.csproj.CoreCompileInputs.cache
+c:\users\lawadmin\source\repos\Project6\Project6\bin\Debug\Project6.exe.config
+c:\users\lawadmin\source\repos\Project6\Project6\bin\Debug\Project6.exe
+c:\users\lawadmin\source\repos\Project6\Project6\bin\Debug\Project6.pdb
+c:\users\lawadmin\source\repos\Project6\Project6\obj\Debug\Project6.exe
+c:\users\lawadmin\source\repos\Project6\Project6\obj\Debug\Project6.pdb
